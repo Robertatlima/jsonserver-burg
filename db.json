@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "senha",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Hamburguer",
+      "price": 14,
+      "id": 1,
+      "category": "Sanduiches",
+      "image": "https://media.istockphoto.com/photos/big-hamburger-on-white-background-picture-id621993314"
+    },
+    {
+      "name": "X-burgue",
+      "price": 16,
+      "id": 2,
+      "category": "Sanduiches",
+      "image": "https://media.istockphoto.com/photos/big-hamburger-on-white-background-picture-id621993314"
+    },
+    {
+      "name": "Big Kenzie",
+      "price": 18,
+      "id": 3,
+      "category": "Sanduiches",
+      "image": "https://media.istockphoto.com/photos/big-hamburger-on-white-background-picture-id621993314"
+    },
+    {
+      "name": "Combo Kenzie",
+      "price": 26,
+      "id": 4,
+      "category": "Sanduíches",
+      "image": "https://cantinatiobento.com.br/wp-content/uploads/2020/12/CHEESEBURGERCOCA-1.png"
+    },
+    {
+      "name": "Fanta Guaraná",
+      "price": 5,
+      "id": 5,
+      "category": "Bebidas",
+      "image": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/4613_Refrigerante_Fanta_Guarana_Lata_350ml.jpg"
+    },
+    {
+      "name": "Coca-cola",
+      "price": 5,
+      "id": 6,
+      "category": "Bebidas",
+      "image": "https://farmaciaindiana.vteximg.com.br/arquivos/ids/232767/677510.jpg?v=637441644755670000"
+    },
+    {
+      "name": "MIlkShake ovomaltine",
+      "price": 12,
+      "id": 7,
+      "category": "Sobremesas",
+      "image": "https://s.cornershopapp.com/product-images/1992055.png?versionId=s8gwh8JOmSvzn1IdiIeNGtDLcAQ_.TUU"
+    },
+    {
+      "name": "MIlkShake morango",
+      "price": 12,
+      "id": 8,
+      "category": "Sobremesas",
+      "image": "https://s.cornershopapp.com/product-images/2807001.jpg?versionId=OaV6O.QIvMy1aXi5DKX210I9iMDKj2eI"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Hamburguer",
+      "price": 14,
+      "id": 1,
+      "category": "Sanduiches",
+      "image": "https://media.istockphoto.com/photos/big-hamburger-on-white-background-picture-id621993314"
+    }
+  ]
+}
